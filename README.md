@@ -5,7 +5,7 @@ On the MAC:
 
 Go to Applications, right click on slack.app and click show contents…
  
-Contents -> Resources -> static ->
+Contents -> Resources -> app.asar.unpacked -> src -> static -> 
 Save the existing ssb-interop.js somewhere else, or rename the file
 
 Replace that file with the one enclosed here.
